@@ -15,6 +15,6 @@ Technologies Used
 HTML5 – Structure and content
 CSS3 – Styling and layout
 ## Output Screenshot
-Portfolio Screenshot(portfolio.png)
+ (portfolio.png)
 
 created by Anjali Behar
